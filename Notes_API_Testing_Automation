@@ -7,3 +7,14 @@ https://reqbin.com/req/c-dwjszac0/curl-post-json-example
 
 # TEST NG
 https://deeksha199.medium.com/a-complete-guide-for-your-first-testng-automation-script-fa633a28ee4a
+
+
+
+Check node& npm versions(npm comes along with node.js)  ? 
+--->node --version 
+--->npm --version
+
+Install the Json server 
+--->npm install -g json-server
+
+
