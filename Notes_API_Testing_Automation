@@ -18,3 +18,28 @@ Install the Json server
 --->npm install -g json-server
 
 
+
+
+Writing the  JSON Structred format type of data.  
+
+{
+ "Name":"venkatesh",
+ "Email":"venkaetsh@gmail.com",
+ "age":24
+ "Categories":{ 
+    "userName":"Venketsh123",
+    "password":"venky123"
+    },
+    "subjects":[
+       "java",
+       "javaScript",
+       "API-Notes",
+       "Cypress",
+       "J-Meter performance Testing"
+       ],
+    }
+    }
+    }
+    
+    
+    
