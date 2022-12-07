@@ -41,5 +41,26 @@ Writing the  JSON Structred format type of data.
     }
     }
     
-    
-    
+<<======================================================================================================================>>
+
+
+
+API Chananing 
+Whenever we get a Response strore this value in different variables.  '
+
+Gotrest API 
+
+
+https://gorest.co.in
+Below different Endpoints 
+
+
+POST       https://gorest.co.in/public/v2/users	                   Create a new user
+GET /public/v2/users/37	Get user details
+PUT|PATCH /public/v2/users/37	Update user details
+DELETE /public/v2/users/37	Delete user
+
+
+Bearer Token mean if we use that Token then only possible onther operations 
+
+if we need to Create collection Wise variablle 
